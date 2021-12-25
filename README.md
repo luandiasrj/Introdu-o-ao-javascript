@@ -1,0 +1,2 @@
+## Repositório contendo os desafios das aulas: Introdução ao JavaScript
+Projetos com desafios em JavaScript contidos nas aulas ministradas pela [@stebsnusch](https://github.com/stebsnusch) na plataforma da DIO.
